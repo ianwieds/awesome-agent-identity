@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agent Identity",
+  "repo": "ianwieds/awesome-agent-identity",
+  "tagline": "Identity, authentication and authorization for AI agents: agent IDs, delegated OAuth, credential brokers, workload identity and policy.",
+  "scope": "It is about identity or access for AI agents, not a general identity product with no agent story.",
+  "accent": "EAB308",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: agent cubes queue on a lane toward a gate, each hands its badge to a reader that shows a check and lifts the barrier so it can enter a vault, while one agent with no badge gets a red cross and turns back."
 }
