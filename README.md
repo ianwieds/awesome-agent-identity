@@ -56,6 +56,7 @@ Agent identity is how an AI agent proves who it is, whose authority it acts on, 
 - [Amazon Bedrock AgentCore Identity](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html) - AWS service that gives agents identities and holds their OAuth tokens and API keys.
 - [Auth0 for AI Agents](https://auth0.com/ai) - User login, Token Vault, async approval and fine-grained access for agent apps.
 - [Descope Agentic Identity Hub](https://www.descope.com/use-cases/ai) - Auth, access control, credential storage and SSO for AI agents and MCP servers.
+- [FractalAI Know Your Agent](https://fractalai.net.co/kya) - Issues agent identity and scope credentials signed with ML-DSA-65, verifiable by anyone.
 - [Google Cloud Agent Identity](https://cloud.google.com/agent-builder/agent-engine/agent-identity) - Per-agent identities for agents that run on Google Cloud's agent runtime.
 - [Keycard](https://www.keycard.sh) - Runtime authorization that gives each agent an identity and scoped access under policy.
 - [Microsoft Entra Agent ID](https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/what-is-agent-id) - Entra identity type for AI agents, with sign-in, access policy and lifecycle.
