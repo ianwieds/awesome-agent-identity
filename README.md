@@ -77,7 +77,7 @@ Agent identity is how an AI agent proves who it is, whose authority it acts on, 
 ## Open-source agent identity
 
 - [Agent Identity Management](https://github.com/opena2a-org/agent-identity-management) - OpenA2A service for cryptographic agent IDs, capability grants and audit trails.
-- [Agent Name Service registry](https://github.com/agentnameservice/ans-registry) - Registry that binds agents to verified domains with versioned certificates and a log.
+- [Agent Name Service](https://github.com/agentnameservice/ans) - Go registry, transparency log and offline verifier that implement the Agent Name Service draft.
 - [Agent Passport System SDK](https://github.com/agent-passport-system/agent-passport-system) - TypeScript SDK for agent passports, narrowing delegation and signed receipts.
 - [AGNTCY Identity](https://github.com/agntcy/identity) - Issues and verifies IDs for agents and MCP servers with verifiable credentials.
 - [Attestix](https://github.com/VibeTensor/attestix) - DID-based agent identity and verifiable credentials with compliance records.
