@@ -173,10 +173,10 @@ Agent identity is how an AI agent proves who it is, whose authority it acts on, 
 - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/) - The top risks for service accounts, tokens and other machine credentials.
 - [Web Bot Auth introduction](https://blog.cloudflare.com/web-bot-auth/) - Cloudflare post on signing agent requests with HTTP message signatures.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->

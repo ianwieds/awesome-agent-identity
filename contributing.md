@@ -6,14 +6,16 @@ Thanks for helping keep this list useful. Please read these rules before you ope
 
 This list covers identity and access for AI agents: standards and specs, identity providers, access governance, delegated access, MCP authorization, workload identity, authorization and policy engines, and credential brokers. A general identity, secrets or policy product belongs here only when it has a documented agent story, such as agent identities, delegated tokens for agents or agent-specific policy. An MCP server or agent framework that merely supports a login is not enough.
 
+<!-- awesome:rules -->
 An entry must be:
 
 - **Public:** a repository or page anyone can open without signing in.
 - **Documented:** a README or docs page that explains what it does and how to use it.
-- **Maintained:** for a repository, <!-- awesome:inactive -->not archived, not marked deprecated by its owner, and with a commit in the last 12 months<!-- /awesome:inactive -->.
-- **Established:** a GitHub project has <!-- awesome:stars -->at least 10 stars<!-- /awesome:stars --> when it is submitted.
-- **Working:** every link resolves.
+- **Maintained:** for a repository, not archived, not marked deprecated by its owner, and with a commit in the last 12 months.
+- **Established:** a GitHub project has at least 10 stars when it is submitted.
+- **Working:** every link resolves.<!-- /awesome:rules -->
 
+<!-- awesome:guide -->
 ## How to add an entry
 
 1. Pick the section (and subsection, where there is one) that fits best.
@@ -37,3 +39,4 @@ An entry must be:
 Every pull request is checked automatically against the rules above. One that fails is closed with a comment that says what to fix; a fixed pull request is welcome.
 
 By contributing, you agree to release your contribution under the [CC0 1.0](LICENSE) dedication.
+<!-- /awesome:guide -->
