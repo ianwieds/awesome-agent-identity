@@ -33,7 +33,7 @@ Agent identity is how an AI agent proves who it is, whose authority it acts on, 
 - [A2A enterprise features](https://a2a-protocol.org/latest/topics/enterprise-ready/) - Agent2Agent spec section on how agents authenticate and authorize each other.
 - [Agent Auth Protocol](https://github.com/better-auth/agent-auth-protocol) - Open spec for agent registration, capability grants and service discovery.
 - [Agent Identity, Trust and Lifecycle Protocol](https://datatracker.ietf.org/doc/draft-larsson-aitlp/) - IETF draft for agent naming, certificates, mandates and lifecycle states.
-- [Agent Name Service](https://datatracker.ietf.org/doc/draft-narajala-ans/) - IETF draft for a DNS-based agent directory backed by PKI certificates.
+- [Agent Name Service](https://datatracker.ietf.org/doc/draft-narajala-courtney-ansv2/) - IETF draft that anchors agent identity to a verified domain with certificates and a public log.
 - [Agent Passport System](https://datatracker.ietf.org/doc/draft-pidlisnyi-aps/) - IETF draft for agent identity, narrowing delegation, revocation and evidence of actions.
 - [AI Identity Management System](https://datatracker.ietf.org/doc/draft-ietf-wimse-aims/) - WIMSE working group draft that applies WIMSE and OAuth to agent authentication.
 - [auth.md](https://github.com/workos/auth.md) - WorkOS protocol where a Markdown file on a domain tells agents how to register for users.
